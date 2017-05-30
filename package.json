@@ -1,0 +1,11 @@
+{
+  "name": "churchtech",
+  "version": "1.0.0",
+  "description": "Design and development for the local church.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pastor Estevan Montoya",
+  "license": "ISC"
+}
